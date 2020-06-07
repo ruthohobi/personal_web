@@ -1,41 +1,41 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include data science and machine learning.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Postgraduate Certificate in Statistics
+    institution: Auchi Polytechnic
+    year: 2018
+  - course: Advanced Diploma in Statistics
+    institution: Federal Polytechnic, Ado Ekiti
+    year: 2014
+ # - course: BSc in Artificial Intelligence
+    #institution: Massachusetts Institute of Technology
+    #year: 2008
+email: "rohobi@tutanota.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science & Machine Learning
+- Statistics
+- Cooking
+- Movies
 organizations:
 - name: Sharpest Minds
-  url: ""
+  url: "www.sharpestminds.com"
 role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-- icon: twitter
+  link: 'rohobi@tutanota.com'
+#- icon: twitter
+ # icon_pack: fab
+  #link: https://twitter.com/GeorgeCushen
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/ruthohobi
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ruthohobi
 superuser: true
 title: Ruth Ohobi
 user_groups:
@@ -43,6 +43,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I like to ask business questions, source and analyze the relevant data, and visualize my insights for my teammates to act on. I’m also capable of using predictive modelling to drive value.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my latest role, I analyzed logistics data and surfaced insights to drive successful business decisions. This helped the organization reduce congestion and made spending on transportation more effective.
+
+I have a Postgraduate Certificate and Advanced Diploma in Statistics. My thesis focused on curbing armed robberies in Etsako West Local Government, Nigeria. My team and I built a time-series model that forecasted future armed robberies. Our analysis and model were expanded on with an accompanying report that detailed possible measures for reducing the rate of armed robberies and was provided to the Police and Local Government.
