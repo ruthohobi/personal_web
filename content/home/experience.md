@@ -25,11 +25,10 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   description = """
-  I’m a data science fellow with Sharpest Minds. My responsibilities includes:
+  I’m a data science fellow with Sharpest Minds. My responsibilities include:
   
-  * Data Acquisition
-  * Data Cleaning
-  * Analysing & Visualization
+  * Data Acquisition and Cleaning
+  * Analyzing & Visualization
   * Modelling
   * Deploying
   * Interpreting the results
